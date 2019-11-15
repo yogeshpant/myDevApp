@@ -1,3 +1,4 @@
+
 Welcome to dev
 2222
 HTML CSS Angular
@@ -13,3 +14,5 @@ ADD text for my new branch
 =======
 
 My Master branch
+=======
+Welcome to duplicate new branch 
